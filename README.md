@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Kotlin, Godot, English**
 
-💬 Ask me about **Node.js, React, php... or anything [here](https://github.com/DidiSmash/DidiSmash/issues)**
+💬 Ask me about **Javascript, C#, php... or anything [here](https://github.com/DidiSmash/DidiSmash/issues)**
 
  </div>
  
