@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **my projects**
  
- 🌱 I’m currently learning **Kotlin, Godot, English**
+ 🌱 I’m currently learning **Kotlin, Godot, ThreeJs**
 
 💬 Ask me about **Javascript, C#, php... or anything [here](https://github.com/DidiSmash/DidiSmash/issues)**
 
