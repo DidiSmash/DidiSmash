@@ -38,7 +38,6 @@
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didismash" alt="didismash" /></a>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DidiSmash&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-didismash.vercel.app/api?username=DidiSmash&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
